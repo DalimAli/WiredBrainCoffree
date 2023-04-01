@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredBrainCoffree.DataProcess", "WiredBrainCoffree.DataProcess\WiredBrainCoffree.DataProcess.csproj", "{731F02A5-E4B7-46AE-96DA-22A712D2B1F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiredBrainCoffree.DataProcessorXUnitTest", "WiredBrainCoffree.DataProcessorXUnitTest\WiredBrainCoffree.DataProcessorXUnitTest.csproj", "{6241A6B5-9696-452C-AA88-ACA0B051D8AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{731F02A5-E4B7-46AE-96DA-22A712D2B1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{731F02A5-E4B7-46AE-96DA-22A712D2B1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{731F02A5-E4B7-46AE-96DA-22A712D2B1F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6241A6B5-9696-452C-AA88-ACA0B051D8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6241A6B5-9696-452C-AA88-ACA0B051D8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6241A6B5-9696-452C-AA88-ACA0B051D8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6241A6B5-9696-452C-AA88-ACA0B051D8AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
