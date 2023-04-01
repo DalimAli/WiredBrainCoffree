@@ -8,12 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Model\" />
-    <Folder Include="Processing\" />
-    <Folder Include="Parsing\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="WiredBrainCoffee1.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
